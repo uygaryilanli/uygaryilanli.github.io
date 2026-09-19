@@ -1,5 +1,6 @@
 google.com, pub-9976608930435300, DIRECT, f08c47fec0942fa0
-google.com, pub-1199613814875678, DIRECT, f08c47fec0942fa0verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
+google.com, pub-1199613814875678, DIRECT, f08c47fec0942fa0
+verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
 playwire.com, 1018531, RESELLER
 triplelift.com, 6998, RESELLER, 6c33edb13117fd86
 voisetech.com, 1066, RESELLER
